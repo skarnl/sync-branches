@@ -2,6 +2,9 @@
 
 GitHub Action to sync one branch when another is updated.
 
+### Remarks
+This repository is only created to be able to update all the dependencies. Since the original repository wasn't maintained anymore and there were some breaking changes.
+
 ## Inputs
 
 ### `GITHUB_TOKEN`
